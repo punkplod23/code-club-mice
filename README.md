@@ -4,11 +4,13 @@
 Social engineering is the art of manipulating people into giving up confidential information or performing actions that compromise security. Instead of looking for a technical "zero-day" exploit in a line of code, a social engineer looks for a "bug" in human psychology—like our natural tendency to trust, our desire to be helpful, or our fear of getting in trouble. It is essentially hacking the human operating system, using deception and persuasion to bypass even the most advanced digital firewalls without ever typing a single command. 
 
 ## Warning never use this
-We need to be able to think like our attacker not become them.
-Quotes from Art of war that explain this better than i can.
+This workshop is about understanding attackers, not becoming one.
+To defend a system, you must be able to think like the person trying to break it — without ever crossing that line yourself.
+
+As The Art of War puts it:
 
 "If you know the enemy and know yourself, you need not fear the result of a hundred battles.""
-
+AND
 "Supreme excellence consists in breaking the enemy's resistance without fighting."
 
 ## Overview
