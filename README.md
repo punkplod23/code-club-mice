@@ -36,7 +36,7 @@ When social engineers target an individual, they look for one of four "bugs" in 
 ---
 
 ## 👤 Target Profiles (The "Social Debugging" Lab)
-Discuss which MICE element you can apply
+Discuss which MICE element you can apply to this could be more than one but likely not, explain how you would do this.
 
 ### 1. Jax (The Underpaid Barista)
 * **The Scenario:** Jax needs $800 for car repairs or they lose their job. 
