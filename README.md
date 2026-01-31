@@ -6,7 +6,9 @@ Social engineering is the art of manipulating people into giving up confidential
 ## Warning never use this
 But we need to think like our attacker.
 Quotes from Art of war that explain this better than i can.
+
 "If you know the enemy and know yourself, you need not fear the result of a hundred battles.""
+
 "Supreme excellence consists in breaking the enemy's resistance without fighting."
 
 ## Overview
