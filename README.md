@@ -19,8 +19,8 @@ In cybersecurity, a system is only as strong as its weakest link. Often, that li
 ---
 
 ## 🛠 The Challenge
-1. **The Breach:** Use your tools to bypass the physical lock on the "Server Box."
-2. **The Intelligence:** Inside, you will find a **Target Profile** (a fake identity).
+1. **The Breach:** Use your tools to bypass the physical lock, in this scenario we pretend the test lock is access to a persons residence.
+2. **The Intelligence:** Inside, you will find a **Target Profile** (a fake identity). In reality to find this information may have been finding a bill or finding information on social media ("Consider this did i need to ever write this what does this information say about me").
 3. **The Exploit:** Analyze the profile and determine which **MICE** tactic would most effectively persuade this person to hand over their credentials.
 
 ---
