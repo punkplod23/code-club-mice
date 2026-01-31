@@ -1,5 +1,14 @@
 # 🔓 Operation: Human Logic (Code Club Edition)
 
+## Background
+Social engineering is the art of manipulating people into giving up confidential information or performing actions that compromise security. Instead of looking for a technical "zero-day" exploit in a line of code, a social engineer looks for a "bug" in human psychology—like our natural tendency to trust, our desire to be helpful, or our fear of getting in trouble. It is essentially hacking the human operating system, using deception and persuasion to bypass even the most advanced digital firewalls without ever typing a single command. 
+
+## Warning never use this
+But we need to think like our attacker.
+Quotes from Art of war that explain this better than i can.
+"If you know the enemy and know yourself, you need not fear the result of a hundred battles.""
+"Supreme excellence consists in breaking the enemy's resistance without fighting."
+
 ## Overview
 In cybersecurity, a system is only as strong as its weakest link. Often, that link isn't the firewall or the encryption—it’s the person sitting at the keyboard. This workshop combines **Physical Security (Lock Picking)** with **Psychological Manipulation (Social Engineering)** using the **MICE Framework**.
 
